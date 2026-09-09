@@ -25,3 +25,7 @@ Requires Xcode Command Line Tools (uses `swiftc`, no Xcode project).
 ```sh
 ./uninstall.sh   # quits the app, unregisters the login item, removes /Applications/RestartDock.app
 ```
+
+## License
+
+[MIT](LICENSE)
