@@ -18,7 +18,7 @@ Requires Xcode Command Line Tools (uses `swiftc`, no Xcode project).
 - Registers itself as a login item on first launch (via `SMAppService`).
   Toggle it off from the right-click menu or in System Settings > General > Login Items.
 - `LSUIElement` is set, so the app has no Dock icon or window.
-- Icon is the SF Symbol `rectangle.badge.xmark`; change it in `Sources/main.swift`.
+- Icon is the SF Symbol `repeat.circle`; change it in `Sources/main.swift`.
 
 ## Uninstall
 
